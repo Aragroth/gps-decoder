@@ -1,0 +1,1 @@
+Simulator needs at least 30 seconds of GPS valid data, so IQ-files become quite big for including in github. But sample file from GPS signal simulator can be created easily for testing by command mentioned in gps_decoder.ipynb
